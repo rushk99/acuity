@@ -1,0 +1,18 @@
+3G W-CDMA is also known as
+UMTS
+DECT
+DCS-1800
+ETACS
+A
+Commonly used mode for 3G networks is
+TDMA
+FDMA
+TDD
+FDD
+D
+The minimum spectrum allocation required for W-CDMA is
+5MHz
+2MHz
+500KHz
+100KHz
+AX
